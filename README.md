@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Divyaa 👋
 
+🌱 I’m currently learning:
+
 👨‍💻 What I'm up to: .
 
 📚 Education:MS Computer Science from .
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 🤝 Connect with me: <a target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/divyaa-mohankumar-5a5326114/'><img src='https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white'></a> 
 
 
-🌐 Visit my personal website: [Divyaa-Mohankumar.com](https://github.com/Divyaamohan/Personal-Portfolio))
+🌐 Visit my personal website: [Divyaa-Mohankumar.com](https://github.com/Divyaamohan/Personal-Portfolio)
 
 <p align='center'>
     <br>
