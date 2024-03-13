@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 🌐 Visit my personal website: [Divyaa Mohankumar]([https://lucasbastos.com](https://github.com/Divyaamohan/Personal-Portfolio))
 
 <p align='center'>
-    <>
     <br>
     <img src='https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=for-the-badge&logoColor=white'>
@@ -39,6 +38,7 @@ Here are some ideas to get you started:
     <img src='https://img.shields.io/badge/-django-092E20?logo=django&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/-mysql-4479A1?logo=mysql&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white'>
+    <br>
     <img src='https://img.shields.io/badge/-aws-232F3E?logo=amazonaws&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/-docker-2496ED?logo=docker&style=for-the-badge&logoColor=white'>
 </p>
