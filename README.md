@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Divyaa 👋
 
-🌱 I’m currently learning:
+🌱 I’m currently learning:Data Structures and Algorithm (python)
 
-👨‍💻 What I'm up to: .
+👨‍💻 What I'm up to: I'm looking to explore skills in ML and AI and I'm a full Stack Developer specialised in NodeJS .
 
-📚 Education:MS Computer Science from .
+📚 Education:MS Computer Science from Pace University.
 
 🤝 Connect with me: <a target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/divyaa-mohankumar-5a5326114/'><img src='https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white'></a> 
 
